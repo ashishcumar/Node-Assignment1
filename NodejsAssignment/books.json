@@ -1,0 +1,22 @@
+[
+  {
+    "BookName": "A Smarter way to Learn JavaScript",
+    "Author": "Mark Myers"
+  },
+  {
+    "BookName": "Head First JavaScript Programming: A Brain-Friendly Guide",
+    "Author": "Elisabeth Robson"
+  },
+  {
+    "BookName": " Eloquent JavaScript",
+    "Author": "Marijn Haverbeke"
+  },
+  {
+    "BookName": "JavaScript: The Definitive Guide",
+    "Author": "David Flanagan"
+  },
+  {
+    "BookName": "Secrets of the JavaScript Ninja",
+    "Author": "John Resig, Bear Bibeault, and Josip Maras"
+  }
+]
